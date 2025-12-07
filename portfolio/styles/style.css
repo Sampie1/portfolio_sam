@@ -253,7 +253,7 @@ body {
 
 .project-btn {
     display: inline-block;
-    background-color: #449c3c;
+    background-color: #4F7046;
     color: white;
     padding: 0.8rem 2rem;
     border-radius: 5px;
@@ -322,4 +322,5 @@ body {
     .contact-col {
       width: 100% !important;
     }
+
   }
